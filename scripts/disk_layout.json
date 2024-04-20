@@ -10,8 +10,8 @@
       {
         "num": 3,
         # caculate: size = fs_size / 64  + 200 (M)
-        "fs_size":"2484 MiB",
-        "size":"2724 MiB"
+        "fs_size":"10240  MiB",
+        "size":"10240  MiB"
       }
     ],
     "usb":[
