@@ -1,7 +1,5 @@
 # overlay-amd64-jemaos
 
-![Logo badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fjemaos-badge-wivuxrq8xzvh.runkit.sh%2F) ![Release badge](https://img.shields.io/github/v/release/openJema/overlay-amd64-jemaos?label=latest%20release%20image)
-
 <br>
 
 ## Introduction
